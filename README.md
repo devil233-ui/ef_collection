@@ -41,9 +41,7 @@ ef-悠久之翼 商品档案楼（附购买指引）
       
 补全计划，主要是对缺失资源的补充(通过网络平台搜索和自购添置)，以及各种资源的汉化和扫图，从广播剧到音乐cd到各种资料书，可以说相当的道阻且长。然后一直想开个晒周边楼，唉这个还是因为17年前的帖子都被度娘之前那个响指搞掉了，不然其实之前是蛮多的。
 
-这里多数资源是从ef-a吧的“既逝如此安好”那继承部分而来以及全网搜刮的，搜索引擎能弄到的基本都在这了，(该添加说明的也加了)。还有一些能查到资料但是没有资源的<s>(比如second
-fan
-mix的广播剧\[景ちゃんのドタバタアルバイト\]已抓轨并收录进了广播剧生肉分区，日曜日ex的日文原版等已经进行了购买，但有些是真的没地方买了)，所以还请有独家资源的大佬多联系本人\[。</s>\[19.10.26标记\]目前ef资源应该已经齐了，如发现疏漏还请麻烦告知。
+这里多数资源是从ef-a吧的“既逝如此安好”那继承部分而来以及全网搜刮的，搜索引擎能弄到的基本都在这了，(该添加说明的也加了)。还有一些能查到资料但是没有资源的 ~~(比如second fan mix的广播剧\[景ちゃんのドタバタアルバイト\]已抓轨并收录进了广播剧生肉分区，日曜日ex的日文原版等已经进行了购买，但有些是真的没地方买了)，所以还请有独家资源的大佬多联系本人。~~ [19.10.26标记]目前ef资源应该已经齐了，如发现疏漏还请麻烦告知。
 
 其实这样的楼在很多地方都有，但咱ef想做的最完备，而事实上真正给予我动力的是昨天想起了绯月ACG音乐区那位贡献了10T资料的巨佬。[<u>https://bbs.ikfol.com/read.php?tid=528509&sf=777</u>](https://bbs.ikfol.com/read.php?tid=528509&sf=777)如果没权限的，建议找认识的帮忙进去或者截图参观下，你们就会发现我做的只是很微不足道的事==虽然我们本质上做的事不同，以及大佬貌似只维护了一年多资源就放弃了，但我也不敢打包票能坚持比他久多少。。。当然也不是强行攀比什么的，估计只有松鼠党才懂得彼此做这些事的快乐吧233
 
@@ -66,7 +64,7 @@ mix的广播剧\[景ちゃんのドタバタアルバイト\]已抓轨并收录�
 **19.9.20**
 1. devil 松鼠党&第一代整理记录者；主负责资源送经济整理存储；修缮
 bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
-2. <s>soraの ef-a吧吧友 苦力翻译之广播剧汉化补全负责人</s>
+2. ~~soraの ef-a吧吧友 苦力翻译之广播剧汉化补全负责人~~
 3. 半完成的天空
 4. 奈特 9.21
 5. 路过围观抽空打杂没事水群的战狼妹调日记
@@ -89,7 +87,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 18. Asphodelus 幻夜字幕组/ck成员 10.27
 19. 纸飞机 10.28
 20. 仍然 11.5
-21. <s>761749974某人大号被封</s>
+21. ~~761749974某人大号被封~~
 22. 小范 11.16
 23. Junglemgs(卡巴) 11.17
 24. 白胡子法师 h萌成员 11.20
@@ -226,14 +224,14 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 - [<u>https://nyaa.si/view/1190541</u>](https://nyaa.si/view/1190541)
 - [<u>https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html</u>](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c. <s>自建网站</s> <s>已死勿念</s>
+## c. ~~~自建网站~~ ~~已死勿念~~
 
-<s>(推荐搭配idm fdm xdm这些，或者aria2使用。)</s>
+~~(推荐搭配idm fdm xdm这些，或者aria2使用。)~~
 
-<s>管理者 @藤宫武藏</s>
+~~管理者 @藤宫武藏~~
 
 
-## d. <s>苟盘</s> 已死勿念
+## d. ~~苟盘~~ 已死勿念
 
 
 ## e. 百度网盘 还剩一口气
@@ -242,20 +240,20 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 
 **秒传已死，勿念**
 
-**<s>秒传链接</s>**
+**~~秒传链接~~**
 
-<s>由于无限爆档和修复成果甚微，已于2020.6.9将百度网盘内的游戏部分(之后看情况增加其他)调整为秒传链接，详见</s>
+~~由于无限爆档和修复成果甚微，已于2020.6.9将百度网盘内的游戏部分(之后看情况增加其他)调整为秒传链接，详见~~
 
-**<s>秒传教程2.0</s>**
+**~~秒传教程2.0~~**
 
-<s><u>百度网盘秒传链接转存 (gmgard.moe)</u></s>
+~~<u>百度网盘秒传链接转存 (gmgard.moe)</u>~~
 
-**<s>秒传教程1.0</s>**
+**~~秒传教程1.0~~**
 
-[<s><u>https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw</u></s>](https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw)
+[~~<u>https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw</u>~~](https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw)
 
-<s>嫌麻烦或资源出现任何问题而紧急使用请前往
-[<u>https://bbs.zdfx.net/</u>](https://bbs.zdfx.net/)</s>
+~~嫌麻烦或资源出现任何问题而紧急使用请前往
+[<u>https://bbs.zdfx.net/</u>](https://bbs.zdfx.net/)~~
 
 **PC+ONS+Kr游戏汉硬**
 
@@ -338,7 +336,7 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 
 **[<u>a. 外挂字幕</u>](https://pan.baidu.com/s/12UXnNMvbSBxpeGeW7QrbaA?pwd=fe5a)**
 
-**b.日版BDRIP1080 <s>秒传</s>下载**<br>
+**b.日版BDRIP1080 ~~秒传~~下载**<br>
 
 [<u>版本推荐说明</u>](https://docs.qq.com/doc/DT3dXQ3FSb0NvRmtn)
 
@@ -416,8 +414,8 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 
 **Ost+Single+生肉/汉化drama（广播剧 ）**
 
-<s>链接：<u><https://pan.baidu.com/s/1AfA0hqcw6NGYBoDnwa2jfA></u>
-提取码：ydcp</s>
+~~链接：<u><https://pan.baidu.com/s/1AfA0hqcw6NGYBoDnwa2jfA></u>
+提取码：ydcp~~
 
 链接：[<u>https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg</u>](https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg)
 提取码：3ax1
@@ -452,7 +450,7 @@ ef - a tale of melodies. ORIGINAL SOUNDTRACK1 ～elegia～(12bk).rar
 
 **碟片、box、设定集、画册扫图**
 
-<s>[<u>度盘</u>](https://pan.baidu.com/s/11s9p4JRgBgV_m9OA0hXoFQ?pwd=3ux4)</s>
+~~[<u>度盘</u>](https://pan.baidu.com/s/11s9p4JRgBgV_m9OA0hXoFQ?pwd=3ux4)~~
 
 [<u>onedrive</u>](https://mingbos-my.sharepoint.com/:f:/g/personal/otowa_group_mingbos_onmicrosoft_com/Eu-O9UFg5-dEkIis8LB5TcABOzNDanNguikZFmbMCjb6Fg?e=TBESCx)
 
@@ -495,7 +493,7 @@ Music，NePlayer，Android System Music……<br>
 
 3. 文本若出现乱码直接把文本丢到chrome里查看和回存，尤其是readme.txt。
 
-4. <s>cd资源有些cue不匹配，提供了备用包，都在对应文件夹里。</s>
+4. ~~cd资源有些cue不匹配，提供了备用包，都在对应文件夹里。~~
 
 # 6.bangumi维基词条
 
