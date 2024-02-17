@@ -186,7 +186,7 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 
 [@萌新](http://sion.ys168.com/)、[@devil](https://space.bilibili.com/37095383)
 
-尽量使用idm等进行抓取，电信建议挂梯子。
+尽量使用[idm（点击进入官网）](https://www.internetdownloadmanager.com/)等进行抓取，电信建议挂梯子。
 
 [下载地址](https://mingbos-my.sharepoint.com/:f:/g/personal/otowa_group_mingbos_onmicrosoft_com/EkUinn0elU1JqSVflwHeaF0BicWdIVjs3Y9mci7Ch4dzlA)
 
