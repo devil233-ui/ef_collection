@@ -394,14 +394,14 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 
 **[d. UK版dvd原盘](https://pan.baidu.com/s/13BnRglykq9p0f_M9J_-o3w?pwd=pk78)**
 
-**[e. 日版BDMV](https://kf.miaola.info/read.php?fid=92&tid=558430&sf=57b)**
+**[e. 日版BDM(绯月官方链接))](https://kf.miaola.com/read.php?fid=92&tid=558430&sf=57b)** [非官方反代链接](https://kf.miaola.work/read.php?fid=92&tid=558430&sf=57b)
 
 **f. 美版BDMV**
 
 
 <details> <summary><b>Memories</b></summary>
 
-[https://kf.miaola.info/read.php?tid=563935&sf=9e9&keyword=ef%20usa](https://kf.miaola.info/read.php?tid=563935&sf=9e9&keyword=ef%20usa)
+[绯月官方链接:https://kf.miaola.com/read.php?tid=563935&sf=9e9&keyword=ef%20usa](https://kf.miaola.com/read.php?tid=563935&sf=9e9&keyword=ef%20usa) [非官方反代链接](https://kf.miaola.work/read.php?tid=563935&sf=9e9&keyword=ef%20usa)
 ```
 
 ```
