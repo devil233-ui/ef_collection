@@ -179,9 +179,9 @@ bangumi目录索引
 
 第一代管理者
 
-[@萌新](http://sion.ys168.com/)、[@devil](https://space.bilibili.com/37095383)
+[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
-尽量使用[idm（点击进入官网）](https://www.internetdownloadmanager.com/)等进行抓取，电信建议挂梯子。
+尽量使用[idm](https://www.internetdownloadmanager.com/)等进行抓取，电信建议挂梯子。
 
 [下载地址](https://mingbos-my.sharepoint.com/:f:/g/personal/otowa_group_mingbos_onmicrosoft_com/EkUinn0elU1JqSVflwHeaF0BicWdIVjs3Y9mci7Ch4dzlA)
 
@@ -219,80 +219,27 @@ bangumi目录索引
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c. ~~~自建网站~~ ~~已死勿念~~
-
-~~(推荐搭配idm fdm xdm这些，或者aria2使用。)~~
-
-~~管理者 @藤宫武藏~~
-
-
+## c. ~~自建网站~~ 已死勿念
 ## d. ~~苟盘~~ 已死勿念
-
 
 ## e. 百度网盘 还剩一口气
 
 ~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
-
 第二代管理者[@devil](https://github.com/devil233-ui)(贴吧id ffhbcfh)，协管[@ShiinaRinne](https://github.com/ShiinaRinne)
 
-**秒传已死，勿念**
-
-**~~秒传链接~~**
-
-~~由于无限爆档和修复成果甚微，已于2020.6.9将百度网盘内的游戏部分(之后看情况增加其他)调整为秒传链接，详见~~
-
-**~~秒传教程2.0~~**
-
-~~百度网盘秒传链接转存 (gmgard.moe)~~
-
-**~~秒传教程1.0~~**
-
-[~~https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw~~](https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw)
-
-~~嫌麻烦或资源出现任何问题而紧急使用请前往
-[https://bbs.zdfx.net/](https://bbs.zdfx.net/)~~
-
-**PC+ONS+Kr游戏汉硬**
-
-(ons、kr都是手机平板上玩的，模拟器到网上自己随便搜一个。)
-
-<details> <summary><b>first</b></summary>
-
-**注意：游戏最开始教堂那段是没有声音的**
-```
-```
+**游戏**
+<details><summary><b>PC+ONS+Kr游戏汉硬</b></summary>
+    
+  (ons、kr都是手机平板上玩的，模拟器网上自己随便搜一个。)
+ - first 注意：游戏最开始教堂那段是没有声音的
+ - latter
+ - fandisc-天使の日曜日
+ - fdex-天使の日曜日续
+ - 日曜日附带优子sama小游戏
 
 </details>
 
-<details> <summary><b>latter</b></summary>
-
-```
-
-```
-</details>
-
-<details> <summary><b>fandisc-天使の日曜日</b></summary>
-
-```
-```
-</details>
-
-<details> <summary><b>fdex-天使の日曜日续</b></summary>
-
-```
-
-```
-</details>
-
-<details> <summary><b>日曜日附带优子sama小游戏</b></summary>
-
-```
-
-```
-</details>
-
-
-<details> <summary><b>录播</b></summary>
+<details><summary><b>录播</b></summary>
 
 - [first ](https://b23.tv/av25621584)
 - [latter ](https://b23.tv/av31340212)
@@ -301,26 +248,13 @@ bangumi目录索引
 - [优子sama小游戏](https://b23.tv/av37683)
 
 </details>
-
-
-<details> <summary><b>CG(pc三大作+ps2)</b></summary>
-
-```
-
-```
-</details>
-
-<br>
-
-
+  
+- CG(pc三大作+ps2)
 - [游戏日文原版(镜像+rr3)](https://pan.baidu.com/s/1CUpy6vCFoPPJH91MwmkImQ?pwd=22ca)
-
 - [游戏OP&ED](https://pan.baidu.com/s/1E0O-QPM21pj2_afhV64NPw?pwd=2rz8)
-<br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。<br>
-
+<br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
 - [PS2游戏\[生肉\]](https://pan.baidu.com/s/1o01GWcAizNZItu6NmFkHRQ?pwd=cvq1) (可在pc端使用小鸡模拟器等进行体验，相比原版有剧情改动，和CG的增加。)
-
-- 游戏demo相关【日文
+- 游戏demo相关【日文】
 
   [链接1](https://pan.baidu.com/s/1T2sikZoq9xDyEiqAIsOWVw?pwd=y9kd)  [链接2](https://pan.baidu.com/s/1tVr1MNEQg89PBMeow8TwsQ?pwd=xfp1)
 
