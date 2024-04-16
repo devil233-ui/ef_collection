@@ -249,11 +249,11 @@ bangumi目录索引
 </details>
   
 - CG(pc三大作+ps2)
-- [游戏日文原版(镜像+rr3)](https://pan.baidu.com/s/1CUpy6vCFoPPJH91MwmkImQ?pwd=22ca)
+- [游戏日文原版](https://pan.baidu.com/s/1HDDBG6htgmP0YVEyaJR7QA?pwd=sqwa)
+<br>含demo相关，一般来说有硬盘版的优先下载，除非你能自行绕过光盘验证（因为本组找不到能用的补丁）。
 - [游戏OP&ED](https://pan.baidu.com/s/1E0O-QPM21pj2_afhV64NPw?pwd=2rz8)
 <br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
 - [PS2游戏\[生肉\]](https://pan.baidu.com/s/1o01GWcAizNZItu6NmFkHRQ?pwd=cvq1) (可在pc端使用小鸡模拟器等进行体验，相比原版有剧情改动，和CG的增加。)
-- 游戏demo相关【日文】
 
   [链接1](https://pan.baidu.com/s/1T2sikZoq9xDyEiqAIsOWVw?pwd=y9kd)  [链接2](https://pan.baidu.com/s/1tVr1MNEQg89PBMeow8TwsQ?pwd=xfp1)
 
