@@ -433,4 +433,6 @@ Music，NePlayer，Android System Music……<br>
 [CHANGELOG.md](./CHANGELOG.md)
 
 # 8.商品档案楼
-[ef-悠久之翼 商品档案楼](https://ef-goods.vercel.app/)
+[ef-悠久之翼 商品档案楼](https://ef-goods.netlify.app/)
+
+[备用，需代理](https://ef-goods.vercel.app/)
