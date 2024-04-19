@@ -14,8 +14,8 @@
     - [应急措施及md5表](#应急措施及md5表)
   - [a.OneDrive盘](#a-Onedrive盘)
   - [b.磁力种子(欢迎大佬制其他资源的种并保种续种)](#b-磁力种子欢迎大佬制其他资源的种并保种续种)
-  - [c.自建网站 已死勿念](#c-自建网站-已死勿念)
-  - [d.苟盘 已死勿念](#d-苟盘-已死勿念)
+  - c.自建网站 已死勿念
+  - d.苟盘 已死勿念
   - [e.百度网盘 还剩一口气](#e-百度网盘-还剩一口气)
 - [4.参考资料——文献、访谈和优质感想贴](#4-参考资料文献访谈和优质感想贴)
 - [5.特殊问题解决](#5-特殊问题解决)
@@ -222,7 +222,7 @@ Bangumi目录索引
 
 ## d. ~~苟盘~~ 已死勿念
 
-## e. 百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD
+## e. 百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。
 
 ~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
 第二代管理者[@devil](https://github.com/devil233-ui)，协管[@ShiinaRinne](https://github.com/ShiinaRinne)
@@ -257,7 +257,7 @@ Bangumi目录索引
 - [游戏OP&ED](https://pan.baidu.com/s/1E0O-QPM21pj2_afhV64NPw?pwd=2rz8)
 <br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
 
-- [游戏美版(两作,含steam补丁)](https://pan.baidu.com/s/1Aw5DH1QOadpFgfaMBwwvjQ?pwd=32yo)<br>
+- [游戏美版（两作,含R18补丁）](https://pan.baidu.com/s/1Aw5DH1QOadpFgfaMBwwvjQ?pwd=32yo)<br>
   英文版ef是由mangagamer公司改动并翻译的，两部分别在2012年和2013年发布。这家公司同时也翻译了包括eden\*在内的许多经典作品，如有兴趣可以前往官网查看。英文版和日文版的区别大概是英文版的翻译内容和方式有所不同，情节都是一样。另外英文版的码特别薄，是可以隐约看见“内容”的那种。2019.10.17移上架steam。
 
 **Ⅱ.动画**
@@ -320,6 +320,8 @@ b.日版BDRIP1080 <br>
 
 c. End Card
 
+这个应该不至于还让我翻译吧。
+
 [d. UK版dvd原盘](https://pan.baidu.com/s/13BnRglykq9p0f_M9J_-o3w?pwd=pk78)
 
 [e. 日版BDMV](https://kf.miaola.work/read.php?fid=92&tid=558430&sf=57b)
@@ -329,6 +331,10 @@ f. 美版BDMV
 [Memories](https://kf.miaola.work/read.php?tid=563935&sf=9e9&keyword=ef%20usa)
 
 [Melodies](https://kf.miaola.work/read.php?tid=564542&sf=6d7&keyword=ef%20usa)
+
+g. ef_website_present
+
+动画官网的小彩蛋，资深点的应该都知道这玩意。
 
 **[Ⅲ.音乐和广播剧](https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg?pwd=iw4h3ax1)**
 
@@ -360,17 +366,17 @@ f. 美版BDMV
 
 # 5. 特殊问题解决
 
-1. 遇到ISO直接使用winrar等解压软件进行解压，不行说明你该升级电脑了。
+① 遇到iso、img等镜像文件先使用winrar、7zip等解压软件尝试进行解压安装（这一步必须在全英文路径），不行就要动用`游戏原版【日文】`文件夹下的`imgdrive`挂载后进虚拟光驱安装，这个工具是经过讨论（[见此贴53楼](https://tieba.baidu.com/p/7864863006?pn=2)和[CHANGELOG.md的2024-04-19](./CHANGELOG.md)）确定下来的，如有更好的欢迎推荐。
 
-2. tak、tta、ape格式的音乐文件，PC端下载foobar2000(通称fb2k)并安装插件可直接播放或者转码任何格式，这个大概是目前最强大的无损食用软件。Groove
-Music，Windows Media
-Player也可作为下选；爪机端也有兼容的fb2k或者海贝音乐Hiby
-Music，NePlayer，Android System Music……<br>
+② tak、tta、ape等格式的无损音乐文件，PC端下载foobar2000（通称fb2k）并安装插件可直接播放或者转码任何格式，这个大概是目前最强大的无损食用软件；Groove Music，Windows Media Player也可作为下选。
+
+爪机端也有兼容的fb2k或者海贝音乐Hiby Music，NePlayer，Android System Music……
+
 [tak转换的补充教程](https://junyussh.github.io/p/convert-tak-format-in-windows/) (感谢@“匿名”)
 
-3. 文本若出现乱码直接把文本丢到chrome里查看和回存，尤其是readme.txt。
+③ 文本若出现乱码直接把文本丢到chrome里查看和回存，尤其是readme.txt。
 
-4. ~~cd资源有些cue不匹配，提供了备用包，都在对应文件夹里。~~
+④ ~~cd资源有些cue不匹配，提供了备用包，都在对应文件夹里。~~ 基本检查完了。
 
 # 6.bangumi维基词条
 
