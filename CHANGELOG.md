@@ -4,7 +4,7 @@
 ## 2024-04-19
 上传`ef_website_present`至`动画`文件夹（起因是优子姐发现flash官网已经彻底失去了意义。
 
-经ef-a吧吧友[@印刻之痕](https://tieba.baidu.com/home/main?id=tb.1.6ab97a7d.dHdeFHuxFdjqiU1PzIAijg?t=1563006215&fr=pb)提醒和本人亲自验证，FFD与SFM无法挂载的原因是`Daemon Tools Lite`新版本问题（但老版本无法在win10安装），已更换软件`imgdrive`解决（并上传`【镜像挂载】imgdrive 2.0.3 Portable.rar`至`游戏原版【日文】`文件夹），具体相关说明见[README](.\README.MD)。
+经ef-a吧吧友[@印刻之痕](https://tieba.baidu.com/home/main?id=tb.1.6ab97a7d.dHdeFHuxFdjqiU1PzIAijg?t=1563006215&fr=pb)提醒和本人共同验证，前几日FFD与SFM无法挂载的原因是`Daemon Tools Lite`新版本问题（但老版本无法在win10安装），已更换软件`imgdrive`解决（并上传`【镜像挂载】imgdrive 2.0.3 Portable.rar`至`游戏原版【日文】`文件夹），具体相关说明见[README.md](./README.md)。
 
 ## 2024-04-16
 基于SFM相同原因，补充FFD硬盘版。
