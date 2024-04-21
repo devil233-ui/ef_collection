@@ -174,7 +174,7 @@ Bangumi目录索引
 
 另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是Onedrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
 
-## a. OneDrive盘
+## a.OneDrive盘
 
 第一代管理者
 
@@ -186,7 +186,7 @@ Bangumi目录索引
 
 > 注：出现问题的话尝试用浏览器的隐身模式打开
 
-## b. 磁力种子_欢迎大佬制其他资源的种并保种续种
+## b.磁力种子_欢迎大佬制其他资源的种并保种续种
 
 制种者@devil
 
@@ -218,11 +218,11 @@ Bangumi目录索引
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c. ~~自建网站~~ 已死勿念
+## c.~~自建网站~~ 已死勿念
 
-## d. ~~苟盘~~ 已死勿念
+## d.~~苟盘~~ 已死勿念
 
-## e. 百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。20240422正式声明：后续任何资源都不会再上传至此网盘。
+## e.百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。20240422正式声明：后续任何资源都不会再上传至此网盘。
 
 ~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
 第二代管理者[@devil](https://github.com/devil233-ui)，协管[@ShiinaRinne](https://github.com/ShiinaRinne)
@@ -354,7 +354,7 @@ g. ef_website_present
 
 **Ⅹ.EF脚本、解包相关**
 
-# 4. 参考资料——文献、访谈和优质感想贴
+# 4.参考资料——文献、访谈和优质感想贴
 
 - [ef - the first tale. OP 『悠久の翼』 staff解析](https://home.gamer.com.tw/creationDetail.php?sn=4101257) @巴哈姆特
 （有墙）
@@ -364,7 +364,7 @@ g. ef_website_present
 
 - [ef - a tale of melodies op中的德文解释](https://bbs.sumisora.net/read.php?tid=10897927)（小白一下）翻译结束 @ck
 
-# 5. 特殊问题解决
+# 5.特殊问题解决
 
 ① 遇到iso、img等镜像文件先使用winrar、7zip等解压软件尝试进行解压安装（这一步必须在全英文路径），不行就要动用`游戏原版【日文】`文件夹下的`imgdrive`挂载后进虚拟光驱安装，这个工具是经过讨论（[见此贴53楼](https://tieba.baidu.com/p/7864863006?pn=2)和[CHANGELOG.md的2024-04-19](./CHANGELOG.md)）确定下来的，如有更好的欢迎推荐。
 
