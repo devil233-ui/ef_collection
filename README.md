@@ -1,26 +1,18 @@
-ef-悠久之翼 商品档案楼（附购买指引）
-
-再也不会挂了，感谢@企鹅的1.0版搭建！
-
-[https://ef-goods.vercel.app/](https://ef-goods.vercel.app/)
-
 **ef-悠久之翼 资源档案楼和补全计划**
 
 ——创立者devil 2019.9.20
 
+资源不定期新增，详见[7.更新日志](#7更新日志)。
 
-资源不定期新增，详见更新日志。
-
-【2019.10.28】本档案楼官方资源部分已完备，工作重心转向【参考资料】(见第4部分)和【补全计划】：
-周边特典档案楼(见本文档置顶) 和广播剧 光荣烤肉之路(见广播剧分区)。
+【2019.10.28】本档案楼资源部分已基本完备，工作重心转向[4.参考资料](#4-参考资料文献访谈和优质感想贴)和[8.商品档案楼](#8商品档案楼)搭建，以及[光荣烤肉之路](https://b23.tv/FqTzUGl)。
 
 - [0.引言](#0引言)
 - [1.关于本档案楼将如何解决继承问题](#1关于本档案楼将如何解决继承问题)
 - [2.群组及欢迎致辞？？](#2群组及欢迎致辞)
 - [3.资源说明，处理及反馈途径和准则](#3资源说明处理及反馈途径和准则)
-    - [关于Ost + Single + drama（广播剧）](#关于ost--single--drama广播剧)
+    - [关于音乐和广播剧](#关于音乐和广播剧)
     - [应急措施及md5表](#应急措施及md5表)
-  - [a.OneDrive盘](#a-onedrive盘)
+  - [a.OneDrive盘](#a-Onedrive盘)
   - [b.磁力种子(欢迎大佬制其他资源的种并保种续种)](#b-磁力种子欢迎大佬制其他资源的种并保种续种)
   - [c.自建网站 已死勿念](#c-自建网站-已死勿念)
   - [d.苟盘 已死勿念](#d-苟盘-已死勿念)
@@ -29,14 +21,14 @@ ef-悠久之翼 商品档案楼（附购买指引）
 - [5.特殊问题解决](#5-特殊问题解决)
 - [6.bangumi维基词条](#6bangumi维基词条)
 - [7.更新日志](#7更新日志)
-- [8.个人ACGN资源整理](#8个人acgn资源整理)
+- [8.商品档案楼](#8商品档案楼)
 
 # 0.引言
 (如果你是直接进来拿资源或反馈的，请跳过012前往第3部分，且必须看完应急措施部分)
 
 想要建立这个档案楼和发展计划的契机，大概是半个月前我在找日曜日广播剧\[水姫の相変わらずな1日\]时，到kf论坛发现链接全挂了，我在第一时间向帖子里的谭友们发起了pm求助，不过要么表示自己也丢了或没存，要么直到现在也没回复我，毕竟确实是太久远的了。后来又翻遍了内网外网和加了大大小小的群也没有这个资源，于是不得已打扰了音羽教会汉化组的组长柚子菊苣(虽然我不是，但各论坛网友们貌似都是这么尊称的?)，前辈虽然把我当朋友，但其实我一直以后辈自居。结果她也没有，还因为记错而戏剧性地给了我另一个游戏资源的hint，是日曜日的ex来着，不过她找不到安装包了。我去看了下和前面那个广播剧一样又是一份在bgm连词条都没有的冷门玩意，更别说资源(当然现已进行了建立[http://bgm.tv/subject/290941](http://bgm.tv/subject/290941)和[http://bgm.tv/subject/290857](http://bgm.tv/subject/290857)，顺便一提vndb的汉化相关信息也是我发现才补的)。
 
-最终就在前两天我于minori吧和say花火吧相继遇到了贵人相助才了全所有心愿，总结来说就是，游戏本体什么的也还好，但对于各种边边角角的资源，尤其这样的奇奇怪怪的特典，如果有这么一份完备的档案楼，而且比如你有幸得以拉朋友入坑，直接甩这个什么都有的链接过去，不是很帅吗2333。且资源之于百度云盘的不稳定性也因为在onedrive进行分流备份后得到了解决，但如果有更多人(efers)帮助，进行全网分布式存储的理想状态也不是梦。而最重要的，其实是关于各种资源的说明，官网、相关信息(发售和放流等)，以及资源出问题的反馈渠道，这是现存网络资源的短板。u2和kf虽然作为现今藏量最丰富的库，但由于各种原因门槛偏高且仅内部分享，知名度其实也仅限于圈子里的老人，所以珍贵的资源不为常人所知，而一旦放流的人把资源弄丢了，甚至可能导致永久性的失传。本档案楼设立目的正是为了解决这些问题(继承思路详见第1部分)。
+最终就在前两天我于minori吧和say花火吧相继遇到了贵人相助才了全所有心愿，总结来说就是，游戏本体什么的也还好，但对于各种边边角角的资源，尤其这样的奇奇怪怪的特典，如果有这么一份完备的档案楼，而且比如你有幸得以拉朋友入坑，直接甩这个什么都有的链接过去，不是很帅吗2333。且资源之于百度云盘的不稳定性也因为在Onedrive进行分流备份后得到了解决，但如果有更多人(efers)帮助，进行全网分布式存储的理想状态也不是梦。而最重要的，其实是关于各种资源的说明，官网、相关信息(发售和放流等)，以及资源出问题的反馈渠道，这是现存网络资源的短板。u2和kf虽然作为现今藏量最丰富的库，但由于各种原因门槛偏高且仅内部分享，知名度其实也仅限于圈子里的老人，所以珍贵的资源不为常人所知，而一旦放流的人把资源弄丢了，甚至可能导致永久性的失传。本档案楼设立目的正是为了解决这些问题(继承思路详见第1部分)。
 
 
 补全计划，主要是对缺失资源的补充(通过网络平台搜索和自购添置)，以及各种资源的汉化和扫图，从广播剧到音乐cd到各种资料书，可以说相当的道阻且长。然后一直想开个晒周边楼，唉这个还是因为17年前的帖子都被度娘之前那个响指搞掉了，不然其实之前是蛮多的。
@@ -47,16 +39,21 @@ ef-悠久之翼 商品档案楼（附购买指引）
 
 # 1.关于本档案楼将如何解决继承问题
 
-先说说个人的思考吧，现今多数资源发布站都有个很大的弊端是只有创立者可以对内容进行修改，但倘若创立者突然很长一段时间甚至永久失去联系，这个网站可以说到此为止了，毕竟即使有人创立了新的发布地址，然而无法在旧的地址上进行公告，就需要相当长一段时间进行积累和宣传才能够尽可能普及给原先的用户。
+~~先说说个人的思考吧，现今多数资源发布站都有个很大的弊端是只有创立者可以对内容进行修改，但倘若创立者突然很长一段时间甚至永久失去联系，这个网站可以说到此为止了，毕竟即使有人创立了新的发布地址，然而无法在旧的地址上进行公告，就需要相当长一段时间进行积累和宣传才能够尽可能普及给原先的用户。~~
 
-而这个档案楼将开放权限给我可以信任之人，一旦长时间在任何平台都无法联系到本人(可能脱坑了也可能现实中出了意外)，可判定为档案楼2代启用的条件。此时将由他们中的某位开设第二代档案楼并将权限共享与一代权限者全体，档案楼2代将含有一代所有信息并进行所有资源链接的更新，且一代(也就是本楼)最上方将提供二代的传送门地址。三代四代依此类推。
+~~而这个档案楼将开放权限给我可以信任之人，一旦长时间在任何平台都无法联系到本人(可能脱坑了也可能现实中出了意外)，可判定为档案楼2代启用的条件。此时将由他们中的某位开设第二代档案楼并将权限共享与一代权限者全体，档案楼2代将含有一代所有信息并进行所有资源链接的更新，且一代(也就是本楼)最上方将提供二代的传送门地址。三代四代依此类推。~~ 
+
+都怪当初太年轻连git都不知道，否则少走114514年弯路。
 
 若哪位大佬有更好的方案请联系本人，个人联系方式见第3部分。
 
 # 2.群组及欢迎致辞？？
 
-欢迎加入[音羽建设组](https://jq.qq.com/?_wv=1027&k=50coTrX)！！
-(群号499680018)，本组用于ef-悠久之翼从游戏到动画到各种周边的已有档案建立和未放流或未汉化资源补全进行规划讨论，因为考虑目前平台用户贴吧占比的数量，所以暂时的推广宣传地址为[ef-a吧](https://tieba.baidu.com/f?kw=ef-a&fr=index&fp=0&ie=utf-8)。无论你有何种能力，对类似事件拥有丰富经验的长者、资源收集爱好者乃至松鼠党、会做种补种或者手持各种网盘、日语赛中文、技术上手等各行菊苣，都非常欢迎，当然愿意提供idea或者仅精神支持的fans咱也来者不拒！！
+欢迎加入[音羽建设组](https://jq.qq.com/?_wv=1027&k=50coTrX)！！(群号499680018)，本组用于ef-悠久之翼从游戏到动画到各种周边的已有档案建立和未放流或未汉化资源补全进行规划讨论。
+~~，因为考虑目前平台用户贴吧占比的数量，所以暂时的推广宣传地址为[ef-a吧](https://tieba.baidu.com/f?kw=ef-a&fr=index&fp=0&ie=utf-8)~~
+百度贴吧什么时候死啊。
+
+无论你有何种能力，对类似事件拥有丰富经验的长者、资源收集爱好者乃至松鼠党、会做种补种或者手持各种网盘、日语赛中文、技术上手等各行菊苣，都非常欢迎，当然愿意提供idea或者仅精神支持的fans咱也来者不拒！！
 
 <details> 
 <summary>现役成员(最右为加入时间[马甲不计入])</summary>
@@ -137,29 +134,28 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 [世界树一览](https://docs.qq.com/doc/DT0RrbXFCQWhVdVN6)
 
-裸的资源(没有压缩包的)都下载到本地进行了检查，确保完整性和可使用性，然后尽量都对有需要解释的资源进行了来源标注和说明（其实我一直觉得多数资源发布者不提供解释说明和反馈渠道是非常坑的），另外虽然几乎所有说明文件都长一个名字。。但是！内容全不一样，不要看到就删，感谢。
+裸的资源(没有压缩包的)都下载到本地进行了检查，确保完整性和可使用性，然后尽量都对有需要解释的资源进行了来源标注（涉及到kf绯月论坛的网址，如果打不开多半是域名过期了，请使用浏览器进行搜索新的可用域名；其他网址同理）和说明（其实我一直觉得多数资源发布者不提供解释说明和反馈渠道是非常坑的），另外虽然几乎所有说明文件都长一个名字……但是！内容不完全一样，不要看到就删，感谢。
 
-打包的资源理论上基本不会出问题，而如果压缩包有密码，**不是 ef-a 就是
-终点**。
+打包的资源理论上基本不会出问题，而如果压缩包有密码，**不是 ef-a 就是 终点**。
 
-### 关于Ost + Single + drama（广播剧）
+### 关于音乐和广播剧
 
 资源的组成为
 
-1. 旧有合集(即各论坛随处可见的)收录\[flac整轨\]和\[tak+tta\]两版本，并分别进行了修正改良和整理。
+1. 旧有合集（即各论坛随处可见的）收录\[flac整轨\]和\[tak+tta\]两版本，并分别进行了修正改良和整理。
 2. 新增资源统一flac。
 
 [天雪flac合集改良说明](https://docs.qq.com/doc/DT1BNSW1YWmRTTFdI)
 
 [phlisophy raws合集改良说明](https://docs.qq.com/doc/DT1RhcGVMc0VDWXNs)
 
-bangumi目录索引
+Bangumi目录索引
 
-- [ost ](http://bgm.tv/index/29206)
+- [Ost](http://bgm.tv/index/29206)
 
-- [single](http://bgm.tv/index/29207)
+- [Single](http://bgm.tv/index/29207)
 
-- [广播剧](http://bgm.tv/index/29079)
+- [Drama](http://bgm.tv/index/29079)
 
 - [b站广播剧生肉合集](https://b23.tv/av36614878)
 
@@ -167,26 +163,24 @@ bangumi目录索引
 
 ### 应急措施及md5表
 
-1. 目前而言，提供了三个大的下载渠道，如果使用的那个出了问题请尝试另外两个**23.12.4注：由于秒传死亡，百度网盘可能将被本组逐渐淘汰，且用且珍惜）**。另外，网盘内压缩包全部采用rar+rr3及以上的方式进行存储，如果下载的压缩包提示损坏，请使用**winrar等高级解压软件**进行修复；若修复无效，请[核对md5列表排查网络原因](https://github.com/Seshiria/EFmd5sum/blob/master/md5sum)
+1. 目前而言，提供了三个大的下载渠道，如果使用的那个出了问题请尝试另外两个**23.12.4注：由于秒传死亡，百度网盘可能将被本组逐渐淘汰，且用且珍惜）**。另外，网盘内压缩包全部采用rar+rr3及以上的方式进行存储，如果下载的压缩包提示损坏，请使用**winrar等高级解压软件**进行修复；若修复无效，请[核对md5列表以排查网络原因](https://github.com/Seshiria/EFmd5sum/blob/master/md5sum)
 (不会请百度)。
 2. 多数资源本组是附带提供了原放流地址或官网的，也可前往获取和反馈。
 3. 一切万策尽后，请等待本组进行测试，确实有问题的话会进行资源重传，传好后会通知。
 
-本档案楼资源的反馈【关于如何使用资源请另寻高明】渠道和准则为：
+本档案楼资源的反馈（关于如何使用资源请另寻高明）唯一渠道和准则为：
 
-发邮件到我小号邮箱 [1250226509@qq.com (点击发送邮件)](mailto:1250226509@qq.com)
-(大号不方便透漏，想找我就加群吧)，以及B站私信
-Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件名及所在文件夹，要么截图。
+[确保搜索后无相关讨论或讨论没给出解决方案](https://github.com/devil233-ui/ef_collection/issues)再进行提Issue。反馈内容请明确指出哪个文件，要么给出完整文件名及所在文件夹，要么截图。
 
-另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；od就是onedrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
+另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是Onedrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
 
 ## a. OneDrive盘
 
 第一代管理者
 
-[@萌新](http://sion.ys168.com/)、[@devil](https://space.bilibili.com/37095383)
+[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
-尽量使用[idm（点击进入官网）](https://www.internetdownloadmanager.com/)等进行抓取，电信建议挂梯子。
+尽量使用[IDM](https://www.internetdownloadmanager.com/)等进行抓取，若无法访问请使用代理。
 
 [下载地址](https://mingbos-my.sharepoint.com/:f:/g/personal/otowa_group_mingbos_onmicrosoft_com/EkUinn0elU1JqSVflwHeaF0BicWdIVjs3Y9mci7Ch4dzlA)
 
@@ -212,7 +206,7 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 - [https://share.dmhy.org/topics/view/529925\_1-10fin\_ef\_-\_a\_fairy\_tale\_of\_the\_two.html](https://share.dmhy.org/topics/view/529925_1-10fin_ef_-_a_fairy_tale_of_the_two.html)
 - [https://nyaa.si/view/1247634](https://nyaa.si/view/1247634)
 
-**oped原盘**
+**OP、ED原盘**
 - [https://nyaa.si/view/1186137](https://nyaa.si/view/1186137)
 - [https://share.dmhy.org/topics/view/529922\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_OP\_ED.html](https://share.dmhy.org/topics/view/529922_ef_-_a_fairy_tale_of_the_two_OP_ED.html)
 
@@ -224,78 +218,28 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c. ~~~自建网站~~ ~~已死勿念~~
-
-~~(推荐搭配idm fdm xdm这些，或者aria2使用。)~~
-
-~~管理者 @藤宫武藏~~
-
+## c. ~~自建网站~~ 已死勿念
 
 ## d. ~~苟盘~~ 已死勿念
 
+## e. 百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD
 
-## e. 百度网盘 还剩一口气
+~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
+第二代管理者[@devil](https://github.com/devil233-ui)，协管[@ShiinaRinne](https://github.com/ShiinaRinne)
 
-第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)
-
-**秒传已死，勿念**
-
-**~~秒传链接~~**
-
-~~由于无限爆档和修复成果甚微，已于2020.6.9将百度网盘内的游戏部分(之后看情况增加其他)调整为秒传链接，详见~~
-
-**~~秒传教程2.0~~**
-
-~~百度网盘秒传链接转存 (gmgard.moe)~~
-
-**~~秒传教程1.0~~**
-
-[~~https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw~~](https://docs.qq.com/doc/DT0NSdkV6a1dJdGpw)
-
-~~嫌麻烦或资源出现任何问题而紧急使用请前往
-[https://bbs.zdfx.net/](https://bbs.zdfx.net/)~~
-
-**PC+ONS+Kr游戏汉硬**
-
-(ons、kr都是手机平板上玩的，模拟器到网上自己随便搜一个。)
-
-<details> <summary><b>first</b></summary>
-
-**注意：游戏最开始教堂那段是没有声音的**
-```
-```
+**Ⅰ.游戏**
+<details><summary>游戏汉硬（PC+ONS+Kr）</summary>
+    
+  (ons、kr都是手机平板上玩的，模拟器网上自己随便搜一个。)
+ - first 注意：游戏最开始教堂那段是没有声音的
+ - latter
+ - fandisc-天使の日曜日
+ - fdex-天使の日曜日续
+ - 日曜日附带优子sama小游戏
 
 </details>
-
-<details> <summary><b>latter</b></summary>
-
-```
-
-```
-</details>
-
-<details> <summary><b>fandisc-天使の日曜日</b></summary>
-
-```
-```
-</details>
-
-<details> <summary><b>fdex-天使の日曜日续</b></summary>
-
-```
-
-```
-</details>
-
-<details> <summary><b>日曜日附带优子sama小游戏</b></summary>
-
-```
-
-```
-</details>
-
-
-<details> <summary><b>录播</b></summary>
+<br>
+<details><summary>游戏录播</summary>
 
 - [first ](https://b23.tv/av25621584)
 - [latter ](https://b23.tv/av31340212)
@@ -304,41 +248,25 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 - [优子sama小游戏](https://b23.tv/av37683)
 
 </details>
+  
+- 游戏CG（PC三大作+PS2）
 
-
-<details> <summary><b>CG(pc三大作+ps2)</b></summary>
-
-```
-
-```
-</details>
-
-<br>
-
-
-- [游戏日文原版(镜像+rr3)](https://pan.baidu.com/s/1CUpy6vCFoPPJH91MwmkImQ?pwd=22ca)
+- [游戏日文原版](https://pan.baidu.com/s/1HDDBG6htgmP0YVEyaJR7QA?pwd=sqwa)
+<br>含demo相关，一般来说有硬盘版的优先下载，除非你能自行绕过光盘验证（因为本组找不到能用的补丁;PS2版本可在pc端使用小鸡模拟器等进行体验，相比原版有剧情改动，和CG的增加。）。
 
 - [游戏OP&ED](https://pan.baidu.com/s/1E0O-QPM21pj2_afhV64NPw?pwd=2rz8)
-<br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。<br>
+<br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
 
-- [PS2游戏\[生肉\]](https://pan.baidu.com/s/1o01GWcAizNZItu6NmFkHRQ?pwd=cvq1) (可在pc端使用小鸡模拟器等进行体验，相比原版有剧情改动，和CG的增加。)
-
-- 游戏demo相关【日文
-
-  [链接1](https://pan.baidu.com/s/1T2sikZoq9xDyEiqAIsOWVw?pwd=y9kd)  [链接2](https://pan.baidu.com/s/1tVr1MNEQg89PBMeow8TwsQ?pwd=xfp1)
-
-  ![](./media/image1.png)
-
-- [EF两作美版(含steam补丁)](https://pan.baidu.com/s/1Aw5DH1QOadpFgfaMBwwvjQ?pwd=32yo)<br>
+- [游戏美版(两作,含steam补丁)](https://pan.baidu.com/s/1Aw5DH1QOadpFgfaMBwwvjQ?pwd=32yo)<br>
   英文版ef是由mangagamer公司改动并翻译的，两部分别在2012年和2013年发布。这家公司同时也翻译了包括eden\*在内的许多经典作品，如有兴趣可以前往官网查看。英文版和日文版的区别大概是英文版的翻译内容和方式有所不同，情节都是一样。另外英文版的码特别薄，是可以隐约看见“内容”的那种。2019.10.17移上架steam。
 
-**动画**
+**Ⅱ.动画**
 
-**[a. 外挂字幕](https://pan.baidu.com/s/12UXnNMvbSBxpeGeW7QrbaA?pwd=fe5a)**
+[a. 外挂字幕](https://pan.baidu.com/s/12UXnNMvbSBxpeGeW7QrbaA?pwd=fe5a)
 
-**b.日版BDRIP1080 ~~秒传~~下载**<br>
+b.日版BDRIP1080 <br>
 
-[版本推荐说明](https://docs.qq.com/doc/DT3dXQ3FSb0NvRmtn)
+[各版本比较及推荐说明](https://docs.qq.com/doc/DT3dXQ3FSb0NvRmtn)
 
 1. ANK(扫图+评论音轨)(Hi10P Mkv\_RR)\[30.17G\]<br>
 链接:
@@ -390,92 +318,41 @@ Eyboarder。反馈内容请明确指出哪个文件，要么给出完整文件�
 [https://pan.baidu.com/s/1EIlL0cbL\_8jpPPeRJEp\_cQ](https://pan.baidu.com/s/1EIlL0cbL_8jpPPeRJEp_cQ)
 提取码: l82x
 
-**c. End Card**
+c. End Card
 
-**[d. UK版dvd原盘](https://pan.baidu.com/s/13BnRglykq9p0f_M9J_-o3w?pwd=pk78)**
+[d. UK版dvd原盘](https://pan.baidu.com/s/13BnRglykq9p0f_M9J_-o3w?pwd=pk78)
 
-**[e. 日版BDM(绯月官方链接))](https://bbs.kfmax.com/read.php?fid=92&tid=558430&sf=57b)** [非官方反代链接](https://kf.miaola.work/read.php?fid=92&tid=558430&sf=57b)
+[e. 日版BDMV(绯月官方链接)](https://bbs.kfmax.com/read.php?fid=92&tid=558430&sf=57b)** [非官方反代链接](https://kf.miaola.work/read.php?fid=92&tid=558430&sf=57b)
 
-**f. 美版BDMV**
+f. 美版BDMV
 
+[Memories(绯月官方链接)](https://bbs.kfmax.com/read.php?tid=563935&sf=9e9&keyword=ef%20usa) [非官方反代链接](https://kf.miaola.work/read.php?tid=563935&sf=9e9&keyword=ef%20usa)
 
-<details> <summary><b>Memories</b></summary>
+[Melodies(绯月官方链接)](https://bbs.kfmax.com/read.php?tid=564542&sf=6d7&keyword=ef%20usa) [非官方反代链接](https://kf.miaola.work/read.php?tid=564542&sf=6d7&keyword=ef%20usa)
 
-[绯月官方链接:https://bbs.kfmax.com/read.php?tid=563935&sf=9e9&keyword=ef%20usa](https://bbs.kfmax.com/read.php?tid=563935&sf=9e9&keyword=ef%20usa) [非官方反代链接](https://kf.miaola.work/read.php?tid=563935&sf=9e9&keyword=ef%20usa)
-```
+**[Ⅲ.音乐和广播剧](https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg?pwd=iw4h3ax1)**
 
-```
-</details>
+**[Ⅳ.漫画](https://pan.baidu.com/s/1GgPyHcuzNXE4qlAIRStgUg?pwd=trss)**
 
+**Ⅴ.实物图 碟片、box、设定集、画册扫图**
 
+**[Ⅵ.MAD](https://pan.baidu.com/s/18NLEoEusfrZrmdee75a7wQ?pwd=0l6i)**
 
+**Ⅶ.周边和特典**
 
-<br>
+- [minori movie collection](https://pan.baidu.com/s/1t3Xrdqp9zeLoCLRtsK7p0w?pwd=7n28)
 
-**Ost+Single+生肉/汉化drama（广播剧 ）**
+- [八音盒展示](https://pan.baidu.com/s/1lzoZMDicuqT4WKA8sdKrvA?pwd=iw4h)
 
-~~链接：<https://pan.baidu.com/s/1AfA0hqcw6NGYBoDnwa2jfA>
-提取码：ydcp~~
+- 0721
 
-链接：[https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg](https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg)
-提取码：3ax1
-
-2021.6.24<br>
-修不动了，去onedrive
-
-2021.11.19 
-<details> <summary>查出OST部分被和谐导致整个文件夹被和谐，故此部分转为秒传</summary>
-
-7CC2C9B7BA63D37B9A901B79E6C99D7E#CFC92764D6923F1ACBC19493F7FA7EDE#1366965607#\[EAC\]\[081228\]\[OST\]\[minori\](C75)(サントラ)
-ef - a fairy tale of the two. Original Soundtrack. Alato(22bk).rar
-
-BBA219AB2EA871B8E53CCB80F64B4C7B#4E6F627307BB595C8C34DA31A90B750E#437198787#\[EAC\]\[090227\]\[OST\](サントラ)
-ef - a tale of melodies. ORIGINAL SOUNDTRACK2 ～felice～(12bk).rar
-
-0206ECB2B49658CC9B4E496E5C021591#AF69DEC56580B6C31D487DF8D37218FF#271488859#\[EAC\]\[101026\]\[OST\](サントラ)(C79)リア獣ハンター優子
-everlasting force(flac+cue+log+4bk).rar
-
-1505C32172473477F10565DE71343EE6#EAF6C5756884AB609AC645B35391FBB7#401490215#\[EAC\]\[080208\]\[OST\](サントラ)
-ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～(12bk).rar
-
-1C9DC743EF5A91BBD1E21C0B3C28EBFB#BABB2B5597338C98C4E9E8EEAA1311E1#429298488#\[EAC\]\[080402\]\[OST\](サントラ)
-ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～(12bk).rar
-
-8877FCA2D7826F795830181D3DF191E6#E61866D59C4C296221059E5510F8C503#291760513#\[EAC\]\[081226\]\[OST\](サントラ)
-ef - a tale of melodies. ORIGINAL SOUNDTRACK1 ～elegia～(12bk).rar
-</details>
-<br><br>
-
-**[漫画](https://pan.baidu.com/s/1GgPyHcuzNXE4qlAIRStgUg?pwd=trss)**
-
-**碟片、box、设定集、画册扫图**
-
-~~[度盘](https://pan.baidu.com/s/11s9p4JRgBgV_m9OA0hXoFQ?pwd=3ux4)~~
-
-[onedrive](https://mingbos-my.sharepoint.com/:f:/g/personal/otowa_group_mingbos_onmicrosoft_com/Eu-O9UFg5-dEkIis8LB5TcABOzNDanNguikZFmbMCjb6Fg?e=TBESCx)
-
-**[MAD](https://pan.baidu.com/s/18NLEoEusfrZrmdee75a7wQ?pwd=0l6i)**
-
-
-**周边和特典**
-
-**[minori movie collection](https://pan.baidu.com/s/1t3Xrdqp9zeLoCLRtsK7p0w?pwd=7n28)**
-
-**[八音盒展示](https://pan.baidu.com/s/1lzoZMDicuqT4WKA8sdKrvA?pwd=iw4h)**
-
-
-**0721**
-
-见onedrive
-
-**EF脚本、解包相关**
+**Ⅹ.EF脚本、解包相关**
 
 # 4. 参考资料——文献、访谈和优质感想贴
 
 - [ef - the first tale. OP 『悠久の翼』 staff解析](https://home.gamer.com.tw/creationDetail.php?sn=4101257) @巴哈姆特
 （有墙）
 已获得授权并转化为[web存档](https://devil233.lanzous.com/iMm60jg5vof)，请下载解压后使用ie浏览器打开
-
 
 - [ef-a tale of melodies的op中的德语“诗”准确翻译](https://bbs.sumisora.net/read.php?tid=10898738) @ck
 
@@ -502,7 +379,9 @@ Music，NePlayer，Android System Music……<br>
 # 7.更新日志
 [CHANGELOG.md](./CHANGELOG.md)
 
-# 8.个人ACGN资源整理
+# 8.商品档案楼
+[ef-悠久之翼 商品档案楼](https://ef-memoria.com/)
 
-[https://shimo.im/docs/qDgKJyRtjkGrKgC9](https://shimo.im/docs/qDgKJyRtjkGrKgC9)
+[Netlify备用，可能要代理](https://ef-goods.netlify.app/)
 
+[Vercel备用，需代理](https://ef-goods.vercel.app/)
