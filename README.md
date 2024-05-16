@@ -15,7 +15,7 @@
   - [a.OneDrive盘](#aOnedrive盘)
   - [b.磁力种子（欢迎大佬制其他资源的种并保种续种）](#b磁力种子_欢迎大佬制其他资源的种并保种续种)
   - c.自建网站 已死勿念
-  - d.苟盘 已死勿念
+  - [d.谷歌网盘](#d谷歌网盘)
   - [e.百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。（20240422正式声明：后续任何资源都不会再上传至此网盘）](#e百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
 )
 - [4.参考资料——文献、访谈和优质感想贴](#4参考资料文献访谈和优质感想贴)
@@ -177,9 +177,7 @@ Bangumi目录索引
 
 ## a.OneDrive盘
 
-第一代管理者
-
-[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
+第一代管理者[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
 尽量使用[IDM](https://www.internetdownloadmanager.com/)等进行抓取，若无法访问请使用代理。
 
@@ -221,12 +219,17 @@ Bangumi目录索引
 
 ## c.~~自建网站~~ 已死勿念
 
-## d.~~苟盘~~ 已死勿念
+## d.谷歌网盘 
+
+第一代管理者[@妖梦](https://github.com/ShiinaRinne)
+
+https://ef-share.youngmoe.com
 
 ## e.百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
 
 ~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
-第二代管理者[@devil](https://github.com/devil233-ui)，协管[@ShiinaRinne](https://github.com/ShiinaRinne)
+
+第二代管理者[@devil](https://github.com/devil233-ui)，协管[@妖梦](https://github.com/ShiinaRinne)
 
 **Ⅰ.游戏**
 <details><summary>游戏汉硬（PC+ONS+Kr）</summary>
