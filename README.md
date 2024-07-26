@@ -14,7 +14,7 @@
     - [应急措施及md5表](#应急措施及md5表)
   - [a.OneDrive盘](#aOnedrive盘)
   - [b.磁力种子（欢迎大佬制其他资源的种并保种续种）](#b磁力种子_欢迎大佬制其他资源的种并保种续种)
-  - c.自建网站 已死勿念
+  - [c.自建网站2.0](#c自建网站2.0)
   - [d.谷歌网盘](#d谷歌网盘)
   - [e.百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。（20240422正式声明：后续任何资源都不会再上传至此网盘）](#e百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
 )
@@ -217,13 +217,17 @@ Bangumi目录索引
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c.~~自建网站~~ 已死勿念
+## c.自建网站2.0
+
+第一代管理者[@妖梦](https://github.com/ShiinaRinne)
+
+[rdrct.youngmoe.com/ef-volce](rdrct.youngmoe.com/ef-volce)
 
 ## d.谷歌网盘 
 
 第一代管理者[@妖梦](https://github.com/ShiinaRinne)
 
-https://ef-share.youngmoe.com
+[rdrct.youngmoe.com/ef-gdrive](rdrct.youngmoe.com/ef-gdrive)
 
 ## e.百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
 
