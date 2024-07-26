@@ -221,13 +221,13 @@ Bangumi目录索引
 
 第一代管理者[@妖梦](https://github.com/ShiinaRinne)
 
-[rdrct.youngmoe.com/ef-volce](rdrct.youngmoe.com/ef-volce)
+[https://rdrct.youngmoe.com/ef-volce](https://rdrct.youngmoe.com/ef-volce)
 
 ## d.谷歌网盘 
 
 第一代管理者[@妖梦](https://github.com/ShiinaRinne)
 
-[rdrct.youngmoe.com/ef-gdrive](rdrct.youngmoe.com/ef-gdrive)
+[https://rdrct.youngmoe.com/ef-gdrive](https://rdrct.youngmoe.com/ef-gdrive)
 
 ## e.百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
 
