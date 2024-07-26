@@ -217,7 +217,7 @@ Bangumi目录索引
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c.自建网站2.0
+## c.自建网站2_0
 
 第一代管理者[@妖梦](https://github.com/ShiinaRinne)
 
