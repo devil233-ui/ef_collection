@@ -397,6 +397,7 @@ g. ef_website_present
 # 7.更新日志
 [CHANGELOG.md](./CHANGELOG.md)
 
+注：分流相关不进行记录
 # 8.商品档案楼
 [ef-悠久之翼 商品档案楼](https://ef-memoria.com/)
 
