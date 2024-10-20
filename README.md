@@ -331,13 +331,13 @@ c. End Card
 
 [d. UK版dvd原盘](https://pan.baidu.com/s/13BnRglykq9p0f_M9J_-o3w?pwd=pk78)
 
-[e. 日版BDMV](https://kf.miaola.work/read.php?fid=92&tid=558430&sf=57b)
+[e. 日版BDMV(绯月官方链接)](https://bbs.kfmax.com/read.php?fid=92&tid=558430&sf=57b)** [非官方反代链接](https://kf.miaola.work/read.php?fid=92&tid=558430&sf=57b)
 
 f. 美版BDMV
 
-[Memories](https://kf.miaola.work/read.php?tid=563935&sf=9e9&keyword=ef%20usa)
+[Memories(绯月官方链接)](https://bbs.kfmax.com/read.php?tid=563935&sf=9e9&keyword=ef%20usa) [非官方反代链接](https://kf.miaola.work/read.php?tid=563935&sf=9e9&keyword=ef%20usa)
 
-[Melodies](https://kf.miaola.work/read.php?tid=564542&sf=6d7&keyword=ef%20usa)
+[Melodies(绯月官方链接)](https://bbs.kfmax.com/read.php?tid=564542&sf=6d7&keyword=ef%20usa) [非官方反代链接](https://kf.miaola.work/read.php?tid=564542&sf=6d7&keyword=ef%20usa)
 
 g. ef_website_present
 
