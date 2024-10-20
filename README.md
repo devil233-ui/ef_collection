@@ -12,13 +12,12 @@
 - [3.资源说明，处理及反馈途径和准则](#3资源说明_处理及反馈途径和准则)
     - [关于音乐和广播剧](#关于音乐和广播剧)
     - [应急措施及md5表](#应急措施及md5表)
-  - [a.OneDrive盘](#aOnedrive盘)
+  - [a.Onedrive盘](#aOnedrive盘)
   - [b.磁力种子（欢迎大佬制其他资源的种并保种续种）](#b磁力种子_欢迎大佬制其他资源的种并保种续种)
-  - [c.自建网站2.0](#c自建网站2_0)
+  - [c.自建网盘2.0](#c自建网盘2_0)
   - [d.谷歌网盘](#d谷歌网盘)
-  - [e.百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。（20240422正式声明：后续任何资源都不会再上传至此网盘）](#e百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
-)
-- [4.参考资料——文献、访谈和优质感想贴](#4参考资料文献访谈和优质感想贴)
+  - [e.百度网盘 还剩一口气，下面目录里没有超链接的就代表彻底死了且不再补档，只能去OD。（20240422正式声明：后续任何资源都不会再上传至此网盘）](#e百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘)
+- [4.参考资料——考据、文献、访谈和优质感想贴](#4参考资料考据文献访谈和优质感想贴)
 - [5.特殊问题解决](#5特殊问题解决)
 - [6.bangumi维基词条](#6bangumi维基词条)
 - [7.更新日志](#7更新日志)
@@ -175,7 +174,7 @@ Bangumi目录索引
 
 另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是Onedrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
 
-## a.OneDrive盘
+## a.Onedrive盘
 
 第一代管理者[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
@@ -217,7 +216,7 @@ Bangumi目录索引
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c.自建网站2_0
+## c.自建网盘2_0
 
 第一代管理者[@妖梦](https://github.com/ShiinaRinne)
 
@@ -362,15 +361,19 @@ g. ef_website_present
 
 **Ⅹ.EF脚本、解包相关**
 
-# 4.参考资料——文献、访谈和优质感想贴
+# 4.参考资料——考据、文献、访谈和优质感想贴
 
 - [ef - the first tale. OP 『悠久の翼』 staff解析](https://home.gamer.com.tw/creationDetail.php?sn=4101257) @巴哈姆特
 （有墙）
 已获得授权并转化为[web存档](https://devil233.lanzous.com/iMm60jg5vof)，请下载解压后使用ie浏览器打开
 
-- [ef-a tale of melodies的op中的德语“诗”准确翻译](https://bbs.sumisora.net/read.php?tid=10898738) @ck
+- [ef -a tale of melodies. のドイツ語まとめ](https://nichijo-lab.com/ef-deutsch/) 感谢[@vcfch843875](https://github.com/vcfch843875)投稿
 
-- [ef - a tale of melodies op中的德文解释](https://bbs.sumisora.net/read.php?tid=10897927)（小白一下）翻译结束 @ck
+- [ef - a tale of melodies - ebullient future Release Notes](https://web.archive.org/web/20120716191313/http://www.aquastar-anime.net/?page=articles/article20081211) 感谢[@vcfch843875](https://github.com/vcfch843875)投稿
+
+- ~~[ef-a tale of melodies的op中的德语“诗”准确翻译](https://bbs.sumisora.net/read.php?tid=10898738) 泼辣子@ck~~
+
+- ~~[ef - a tale of melodies op中的德文解释（小白一下）翻译结束 ](https://bbs.sumisora.net/read.php?tid=10897927) wayne0111@ck~~
 
 # 5.特殊问题解决
 
