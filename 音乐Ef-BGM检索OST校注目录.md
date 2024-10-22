@@ -104,12 +104,12 @@
 \latter\5:17\efLAT05_22a.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc02\5:19\Revenge in the past.|无意义(-5)
 \latter\3:20\efLAT05_22b.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\3:22\To meet you someday.|EF-main慢速变奏钢片琴效果
 \latter\2:04\efLAT05_23.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\2:06\The sweet world.|钢琴独奏(渐带效果音)高尚行板奏鸣曲
-\latter\1:49\efLAT05_24.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\1:51\Angel's stairs.|竖琴+管风琴庄严地神秘地柔板66
+\latter\1:49\efLAT05_24.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\1:51\Angel's stairs.|竖琴+管风琴庄严地神秘地柔板.66
 \latter\2:53\efLAT05_25.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\2:55\Will.|优美地温柔地行板
 \latter\2:02\op2.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc02\4:08\emotinal flutter|歌曲
 
 
-速度标记简识：庄严板为中值，向下按行板>柔板>慢板>广板>庄板渐渐变慢；向上按中板<快板<活泼的渐渐变快；带“小”表示更接近中值。Ef未出现急板。
+速度标记简识：庄严板为中值，向下按行板>柔板>慢板>广板>庄板渐渐变慢；向上按中板<快板<活泼的渐渐变快；带“小”表示稍微地更接近中值。Ef未出现急板。
 eg.“.112”，表示这首曲子经过节拍器测速，根据数值结果得出速度标记.
 “*地”是正式的意文表情术语".
 “*的”是备注或非正式表情术语".
