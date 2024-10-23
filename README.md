@@ -141,16 +141,11 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 ### 关于音乐和广播剧
 
-资源的组成为
+抓轨标准参考[天使](https://www.tsdm39.com/forum.php?mod=viewthread&tid=1136558&&fromuid=1034922)
 
-1. 旧有合集（即各论坛随处可见的）收录\[flac整轨\]和\[tak+tta\]两版本，并分别进行了修正改良和整理。
-2. 新增资源统一flac。
+由于改动较多，就不列在更新日志了，见[音乐资源演变史.md](./音乐资源演变史.md)
 
-[天雪flac合集改良说明](https://docs.qq.com/doc/DT1BNSW1YWmRTTFdI)
-
-[phlisophy raws合集改良说明](https://docs.qq.com/doc/DT1RhcGVMc0VDWXNs)
-
-Bangumi目录索引
+个人目录索引
 
 - [Ost](http://bgm.tv/index/29206)
 
@@ -344,7 +339,9 @@ g. ef_website_present
 
 动画官网的小彩蛋，资深点的应该都知道这玩意。
 
-**[Ⅲ.音乐和广播剧](https://pan.baidu.com/s/1qgbZXTFKFWBXDR5chlNrUg?pwd=iw4h3ax1)**
+**Ⅲ.音乐和广播剧**
+
+Ost + Single + Drama
 
 **[Ⅳ.漫画](https://pan.baidu.com/s/1GgPyHcuzNXE4qlAIRStgUg?pwd=trss)**
 
