@@ -1,6 +1,6 @@
 ﻿游戏部数\时长\BGM文件名|OST专辑名\长度\标题名|备注信息
 :-:|:-:|:-:
-"\%directoryname%\%length%\%filename_ext%"|" =%filename_ext%\%album%\%length%\%title%"|表情术语&速度&其他备注
+\%directoryname%\%length%\%filename_ext%| =%filename_ext%\%album%\%length%\%title%|表情术语&速度&其他备注
 \first\2:25\ef_first.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\5:01\eternal feather|Game OP EF-Main
 \first\2:03\efBGM010.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:05\Bad friend.|有活力地行板
 \first\1:59\efBGM012.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:02\Twilight.|温柔地慵懒地小柔板(+5)
