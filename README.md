@@ -372,9 +372,9 @@ Ost + Single + Drama
 
 - [ef - a tale of melodies - ebullient future Release Notes](https://web.archive.org/web/20120716191313/http://www.aquastar-anime.net/?page=articles/article20081211) 感谢[@vcfch843875](https://github.com/vcfch843875)投稿
 
-- ~~[ef-a tale of melodies的op中的德语“诗”准确翻译](https://bbs.sumisora.net/read.php?tid=10898738) 泼辣子@ck~~
-
-- ~~[ef - a tale of melodies op中的德文解释（小白一下）翻译结束 ](https://bbs.sumisora.net/read.php?tid=10897927) wayne0111@ck~~
+- ~~[ef-a tale of melodies的op中的德语“诗”准确翻译](https://bbs.sumisora.net/read.php?tid=10898738) 泼辣子@ck~~ 如实在需要又无法进入ck，可于Archives进行获取。下同
+ 
+- ~~[ef - a tale of melodies op中的德文解释（小白一下）翻译结束 ](https://bbs.sumisora.net/read.php?tid=10897927) wayne0111@ck~~ 
 
 # 5.特殊问题解决
 
@@ -396,7 +396,7 @@ Ost + Single + Drama
 
 # 6.bangumi维基词条
 
-这个比较麻烦，姑且先放着。。。你们想编辑ef词条在那个站内圈devil233就行了(鬼知道前几天处理几百个条目的我经历了什么)
+这个比较麻烦，姑且先放着……有人想编辑ef词条在那个站内圈devil233就行了(鬼知道前几天处理几百个条目的我经历了什么)
 
 # 7.更新日志
 [CHANGELOG.md](./CHANGELOG.md)
