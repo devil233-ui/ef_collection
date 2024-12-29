@@ -4,7 +4,7 @@
 \%directoryname%\%length%\%filename_ext%| =%filename_ext%\%album%\%length%\%title%|表情术语&速度&其他备注
 \first\2:25\ef_first.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\5:01\eternal feather|Game OP EF-Main
 \first\2:03\efBGM010.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:05\Bad friend.|有活力地行板
-\first\1:59\efBGM012.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:02\Twilight.|温柔地慵懒地小柔板(+5)
+\first\1:59\efBGM012.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:02\Twilight.|['钢琴'、合成长笛?]温柔地慵懒地小柔板(+5)
 \first\1:45\efBGM013.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\1:48\Junior girl.|有朝气地嬉戏地小快板.112
 \first\3:52\efBGM016.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\3:53\Two Only Two.|钢琴奏鸣，富有情感温柔地小广板
 \first\1:41\efBGM017.ogg|≈\first\1:41\efBGM017_2.ogg |比之添加了节拍音
@@ -13,11 +13,11 @@
 \first\1:45\efBGM020.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\1:47\Morning air.|柔和地宽广地小行板.80
 \first\2:49\efBGM022.ogg|" =\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:49\A moon filled sky. =\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:49\A moon filled sky"|小提琴钢琴合奏富有情感(坚强的)奏鸣曲(+5~)
 \first\2:49\efBGM022_2.ogg|≈\first\2:49\efBGM022.ogg |模糊细节版本用于回忆
-\first\2:06\efBGM023.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:05\A wish.|慢板
+\first\2:06\efBGM023.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:05\A wish.|'竖琴'慢板
 \first\2:05\efBGM024.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:06\Sorrowful feather.|哭泣地庄严地广板EF—Main变奏
 \first\2:01\efBGM025mix.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:03\Snowly night.|慢板
 \first\2:25\efBGM026mix.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:27\Church.|管风琴(动画提琴的‘专辑’)虔诚地哀伤地慢板
-\first\2:44\efBGM027.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:47\Imagination.|优美地富有情感行板(+5~)
+\first\2:44\efBGM027.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:47\Imagination.|优美地富有情感行板,信步的'钢琴'(+5~)
 \first\3:02\efBGM028mix.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\3:02\Dreaming Dreaming.|虔诚地阴郁地广板
 \first\2:58\efBGM029.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\3:01\Free and easy.|优美地宁静地行板（变奏、钢片琴 ？）（2）
 \first\2:47\efBGM030.ogg|" =\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:49\Early childhood. ≈ef#027"|演奏版，精神焕发嬉戏地小行板
@@ -30,17 +30,17 @@
 \first\1:35\efBGM050.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\1:38\Start again.|（归来的）生气勃勃地行板76
 \first\2:29\efBGM051.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:31\Walk around.|有朝气地行板
 \first\1:14\efBGM052.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\1:15\Genuine.|钟琴行板
-\first\2:01\efBGM053.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:05\Frailty feather.|如歌地中板100
-\first\2:08\efBGM054.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:09\Warm color.|富有情感如歌地行板
+\first\2:01\efBGM053.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:05\Frailty feather.|'钢琴'夜想曲?如歌地中板100
+\first\2:08\efBGM054.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:09\Warm color.|['钢琴''长笛']富有情感如歌地行板
 \first\2:07\efBGM056.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:08\Tear.|优美地温柔地慢板 EF-Main变奏
 \latter\1:59\ef#01.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:00\Less than 45sec.|EF-Main的广板变奏
 \latter\2:07\ef#02.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:08\Holy day|有精神慢板圣诞曲
-\latter\3:06\ef#05.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\3:05\Snowly star|主调钢琴 优美地富有情感地轻柔地小慢板58
+\latter\3:06\ef#05.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\3:05\Snowly star|主调'钢琴' 富有情感地轻柔地小慢板58
 \latter\3:49\ef#06.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\3:51\A sheep as for a lamb|小行板
 \latter\1:56\ef#07.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:56\Single line|钢琴独奏柔和地行板
 \latter\2:01\ef#08.ogg|=null|富有情感自然地（释然的）行板
-\latter\2:26\ef#09.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:27\Handing over|慢板
-\latter\1:55\ef#10.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:54\Stay with...|优美地富有感情地（欣慰的）小行板.（84有额外停顿？）（+5）
+\latter\2:26\ef#09.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:27\Handing over|'钢琴'慢板
+\latter\1:55\ef#10.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:54\Stay with...|'钢琴'优美地富有感情地（欣慰的）小行板.（84有额外停顿？）（+5）
 \latter\2:05\ef#11.ogg|=null|中提琴富有情感广板EF-Main变奏
 \latter\3:47\ef#11bgm_73_chihiro_date.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\3:48\Only two|(-1)舍弃
 \latter\1:48\ef#012.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:50\Every morning|精力充沛地轻巧地小快板.104
@@ -54,7 +54,7 @@
 \latter\1:10\ef#026.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:13\Mistake|活泼诙谐地小快板
 \latter\2:45\ef#027.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:46\Early Childfood Armix ≈ef#030-bgm"|环绕声版，精神焕发嬉戏地小行板
 \latter\3:15\ef#028.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\3:12\C2R emotion|优美地焕发地小行板80变奏(+4)
-\latter\2:21\ef#029.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\2:19\Sepia film|优美地多愁善感地小慢板69
+\latter\2:21\ef#029.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\2:19\Sepia film|'钢琴'优美地多愁善感地小慢板69
 \latter\1:38\ef#030-bgm.ogg|" =\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:49\Early childhood. ≈efBGM030"|背景乐版、较轻，有朝气地行板
 \latter\1:48\ef#032.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:50\steps forward by one step|幻想地（倾诉的）广板48
 \latter\2:08\ef#033.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\2:04\Miniature garden|（空灵）神秘地行板
@@ -103,51 +103,76 @@
 \latter\2:20\efLAT05_20.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc02\2:22\Word that doesn't reach.|(启奏极长)慢板
 \latter\3:06\efLAT05_21.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\3:08\Imperfect answer.|弦乐交响温馨地小慢板
 \latter\5:17\efLAT05_22a.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc02\5:19\Revenge in the past.|无意义(-5)
-\latter\3:20\efLAT05_22b.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\3:22\To meet you someday.|EF-main慢速变奏钢片琴效果
+\latter\3:20\efLAT05_22b.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\3:22\To meet you someday.|EF-main慢速变奏'钢琴'钢片琴效果
 \latter\2:04\efLAT05_23.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\2:06\The sweet world.|钢琴独奏(渐带效果音)高尚行板奏鸣曲
 \latter\1:49\efLAT05_24.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\1:51\Angel's stairs.|竖琴+管风琴庄严地神秘地柔板.66
-\latter\2:53\efLAT05_25.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\2:55\Will.|优美地温柔地行板
+\latter\2:53\efLAT05_25.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\2:55\Will.|优美地抒情的行板
 \latter\2:02\op2.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc02\4:08\emotinal flutter|歌曲
 
 ----动画寻时----
 ##从OST到动画
+#歌曲均不入选
 动画剧集位置|OST专辑名\长度\标题名|备注信息
 :-:|:-:|:-:
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:23\Overture|
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:23\Overture|连续转奏多曲目
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:37\ebullient future (English TV-EDIT ver.1)|
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:37\The other side of mask|(-1)丢弃
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:16\Dissembles|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:28\Separate way|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:28\Answer of asking oneself|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:32\Embarrassed|？
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:31\Still alive|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:42\Scary|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:32\Determined herself|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:38\Because, he is here.|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:59\Who's problem|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:24\Abnormal smile|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:33\Twins, separate place|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:04\Two standpoints|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:42\Evening calm|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:35\Confession|小提琴凄厉的
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:19\A girl whom you deserted|
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\4:28\Separate way|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:28\Answer of asking oneself|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:32\Embarrassed|？-1
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:31\Still alive|*3
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:42\Scary|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:32\Determined herself|*3
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:38\Because, he is here.|*3 TV-A1
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:59\Who's problem|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:24\Abnormal smile|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:33\Twins, separate place|*3转奏多曲目
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:04\Two standpoints|*4
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:42\Evening calm|*3
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:35\Confession|*5小提琴凄厉的
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:19\A girl whom you deserted|(-1)丢弃
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:34\願いのカケラ (TV-EDIT ver.A)|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:11\Entropy|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:01\Small revenge|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:50\Kill and come.|
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:00\Why? Why? Why?|
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:11\Entropy|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:01\Small revenge|*2管风琴
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:50\Kill and come.|(-1)丢弃
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:00\Why? Why? Why?|(-1)丢弃
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:30\笑顔のチカラ (TV-EDIT ver.A)|
 
 
-|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:50\Church's bell|
-|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:28\Meets girl|
+|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:50\Church's bell|*3，A moon filled sky管风琴演奏
+|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:28\Meets girl|(-1)丢弃
 |\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:33\空の夢 (TV-EDIT cho.1)|
-|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:56\Junior girl ARmix|
-|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:51\Unexpected|
-|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:07\Bad friend ARmix|
+|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:56\Junior girl ARmix|*4同名曲目滤镜版本
+|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:51\Unexpected|*2
+|\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:07\Bad friend ARmix|-1同名曲目滤镜版本
 |\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\1:30\euphoric field (English TV-EDIT cho.1)|
 
 
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\2:50\existence|(-1)丢弃
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\0:33\Agent|(-1)丢弃
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:46\Shot|*4 TV-OP无唱
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\3:22\I...|(-1)丢弃
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\2:48\lost memory|*2
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\2:04\clear night|TV-A1 ED无唱变奏
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:25\forget me not|TV-A1 ED无唱变奏
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\4:02\True feelings|TV-A1A2 转奏变奏
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\2:42\The final chapter|(-1)丢弃
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\4:22\Terminal station|(-1)丢弃
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:33\空の夢 (TV-EDIT cho.2)
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:08\knight|*3 Ef-Main变奏
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\1:40\Desire that doesn't want to forget|(-1)丢弃
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\6:10\Start and Stay with|*2，TV-A1A2转奏多曲目（终曲）
+GNCA-1136.cue\ef - a tale of memories. ORIGINAL SOUNDTRACK 2 ～fortissimo～\4:39\悠久の翼 [eternal feather] 07.mix Ef-Main削弱配乐演绎
+
+
+#局部标准改变，（1~5）星1表示舍弃。
+|GNCA-1166.cue\ef - a tale of melodies. O.S.T 2 ～felice～\2:31\Collapsing feelings|TV-OP'钢琴'变奏'轻音乐风格'
+GNCA-1166.cue\ef - a tale of melodies. O.S.T 2 ～felice～\3:11\It returns to the dark|TV-OP小提琴变奏
+GNCA-1166.cue\ef - a tale of melodies. O.S.T 2 ～felice～\2:23\Nonchalant happiness|吉他
+GNCA-1166.cue\ef - a tale of melodies. O.S.T 2 ～felice～\1:43\First step that realizes dream|TV-ED B2 无唱
+GNCA-1166.cue\ef - a tale of melodies. O.S.T 2 ～felice～\1:01\Two courages|疑似游戏B3 ED终曲变奏？（待验证）
+GNCA-1166.cue\ef - a tale of melodies. O.S.T 2 ～felice～\1:49\The smile is bet|null
 
 
 
