@@ -127,7 +127,7 @@
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\2:38\Because, he is here.|*3 TV-A1
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:59\Who's problem|(-1)丢弃
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\0:24\Abnormal smile|(-1)丢弃
-|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:33\Twins, separate place|*3转奏多曲目
+|\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:33\Twins, separate place|*3转奏多曲目（前人完毕）
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:04\Two standpoints|*4
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\1:42\Evening calm|*3
 |\ef - a tale of melodies. ORIGINAL SOUNDTRACK ～elegia～\3:35\Confession|*5小提琴凄厉的
