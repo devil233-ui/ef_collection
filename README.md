@@ -378,7 +378,7 @@ Ost + Single + Drama
 
 # 5.特殊问题解决
 
-① 遇到iso、img等镜像文件先使用winrar、7zip等解压软件尝试进行解压安装（这一步必须在全英文路径），不行就要动用`游戏原版【日文】`文件夹下的`imgdrive`挂载后进虚拟光驱安装，这个工具是经过讨论（[见此贴53楼](https://tieba.baidu.com/p/7864863006?pn=2)和[CHANGELOG.md的2024-04-19](./CHANGELOG.md)）确定下来的，如有更好的欢迎推荐。
+① 遇到iso、img等镜像文件先使用winrar、7zip等解压软件尝试进行解压安装（这一步必须在全英文路径），不行就要动用`游戏原版【日文】`文件夹下的`imgdrive`挂载后进虚拟光驱安装，这个工具是经过讨论（[见此贴53楼](https://tieba.baidu.com/p/7864863006?pn=2)和[CHANGELOG.md的2024-04-19](./CHANGELOG.md)）确定下来的，如有更好的欢迎推荐。另外，关于`[100917][minori] 天使の日曜日 “ef - a fairy tale of the two.” Pleasurable Box`，如果你已经使用镜像安装完成，且不想使用汉化版本只想使用日文原版，那么可以参考这个内容：[天使の日曜日 “ef - a fairy tale of the two.” Pleasurable Box. 破解补丁_2DFan](https://2dfan.com/downloads/31717)。
 
 ② tak、tta、ape等格式的无损音乐文件，PC端下载foobar2000（通称fb2k）并安装插件可直接播放或者转码任何格式，这个大概是目前最强大的无损食用软件；Groove Music，Windows Media Player也可作为下选。
 
