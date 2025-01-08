@@ -32,7 +32,7 @@
 \first\1:14\efBGM052.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\1:15\Genuine.|钟琴行板
 \first\2:01\efBGM053.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:05\Frailty feather.|'钢琴'夜想曲?如歌地中板100
 \first\2:08\efBGM054.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:09\Warm color.|['钢琴''长笛']富有情感如歌地行板
-\first\2:07\efBGM056.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:08\Tear.|优美地温柔地慢板 EF-Main变奏
+\first\2:07\efBGM056.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc01\2:08\Tear.|优美地温柔地慢板 EF-Main变奏'动画I EP1-OP'
 \latter\1:59\ef#01.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:00\Less than 45sec.|EF-Main的广板变奏
 \latter\2:07\ef#02.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\2:08\Holy day|有精神慢板圣诞曲
 \latter\3:06\ef#05.ogg|=\ef - a tale of memories. ORIGINAL SOUNDTRACK ～espressivo～\3:05\Snowly star|主调'钢琴' 富有情感地轻柔地小慢板58
