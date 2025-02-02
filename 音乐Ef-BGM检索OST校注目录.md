@@ -1,4 +1,4 @@
-﻿##从游戏到OST
+﻿#从游戏音频文件名对应到OST-CD标题名
 游戏部数\时长\BGM文件名|OST专辑名\长度\标题名|备注信息
 :-:|:-:|:-:
 \%directoryname%\%length%\%filename_ext%| =%filename_ext%\%album%\%length%\%title%|表情术语&速度&其他备注
@@ -109,7 +109,7 @@
 \latter\2:53\efLAT05_25.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc03\2:55\Will.|优美地抒情的行板
 \latter\2:02\op2.ogg|=\ef - a fairy tale of the two. Original Soundtrack. Alato Disc02\4:08\emotinal flutter|歌曲
 
-速度标记简识：庄严板为中值，向下按行板>柔板>慢板>广板>庄板渐渐变慢；向上按中板<快板<活泼的渐渐变快；带“小”表示稍微地更接近中值。Ef未出现急板。
-eg.“.112”，表示这首曲子经过节拍器测速，根据数值结果得出速度标记.
-“*地”是正式的意文表情术语".
-“*的”是备注或非正式表情术语".
+速度标记简识：庄严板为中值，向下按行板>柔板>慢板>广板>庄板渐渐变慢；向上按中板<快板<活泼的渐渐变快；带“小”表示稍微地更接近中值。Ef未出现急板。  
+eg.“.112”，表示这首曲子经过节拍器测速，根据数值结果得出速度标记。  
+“*地”是正式的意文表情术语"。  
+“*的”是备注或非正式表情术语"。  
