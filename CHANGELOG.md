@@ -1,5 +1,20 @@
 # Changelog
 # 2024
+## 2025-3-2——3-4
+1.`EF脚本、解包相关`文件夹新增：
+
+first汉化文本【含脚本注释】.txt
+
+first汉化文本【去掉脚本注释】.txt
+
+first日文文本【含脚本注释】.txt
+
+latter中日文本【含脚本注释】-乱码修正@snk .xlsx
+
+2.`游戏原版【日文】`文件夹新增：
+
+ef - the latter tale.（ダウンロード版）【@失落银lostsilver】
+
 ## 2024-12-11
 将first和latter汉化补丁从`日文原版`文件夹移至`汉硬`，补充含有v3.5信息的update.txt（由[@sunyink](https://github.com/sunyink）提供。
 
