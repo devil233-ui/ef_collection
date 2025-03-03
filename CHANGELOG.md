@@ -16,7 +16,7 @@ latter中日文本【含脚本注释】-乱码修正@snk .xlsx
 ef - the latter tale.（ダウンロード版）【@失落银lostsilver】
 
 ## 2024-12-11
-将first和latter汉化补丁从`日文原版`文件夹移至`汉硬`，补充含有v3.5信息的update.txt（由[@sunyink](https://github.com/sunyink）提供。
+将first和latter汉化补丁从`日文原版`文件夹移至`汉硬`，补充含有v3.5信息的update.txt（由[@sunyink](https://github.com/sunyink)提供。
 
 ## 2024-09-09——09-11
 新增[100326] ef - a fairy tale of the two. ビジュアルファンブック[JPG]，考虑到体积问题，处理了一版压缩档。
