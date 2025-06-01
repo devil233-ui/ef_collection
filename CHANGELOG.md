@@ -1,5 +1,12 @@
 # Changelog
-# 2024
+# 2025
+
+## 2025-6-1
+
+[Haruhana] ef - a Tale of Memories - Fonts
+
+[Haruhana] ef - a Tale of Memories - Subtitles
+
 ## 2025-4-7
 1.`音乐和广播剧【全无损】/(flac) 天雪修正改良版 （45）`文件夹新增：[EAC][090816]中島 裕美子　ねこねこ天使まじかるゆうな - えふメロ&メモおまけCD 特別宴会編(13bk)
 
@@ -19,6 +26,8 @@ latter中日文本【含脚本注释】-乱码修正@snk .xlsx
 2.`游戏原版【日文】`文件夹新增：
 
 ef - the latter tale.（ダウンロード版）【@失落银lostsilver】
+
+# 2024
 
 ## 2024-12-11
 将first和latter汉化补丁从`日文原版`文件夹移至`汉硬`，补充含有v3.5信息的update.txt（由[@sunyink](https://github.com/sunyink)提供。
