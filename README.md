@@ -153,9 +153,9 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 本档案楼资源的反馈（关于如何使用资源不在回复范围内，请另寻高明）唯一渠道和准则为：
 
-[确保看完5.特殊问题解决](#5特殊问题解决)以及[搜索后无相关讨论或讨论没给出解决方案](https://github.com/devil233-ui/ef_collection/issues)再进行提Issue。反馈时请明确指出哪个网盘的哪个文件，要么给出完整路径，要么截图，否则恕不处理。
+[确保看完5.特殊问题解决](#5特殊问题解决)以及[搜索后无相关讨论或讨论没给出解决方案](https://github.com/devil233-ui/ef_collection/issues)再进行提Issue。反馈时请明确指出 1.所属媒体（动画、游戏小说等）2.目标网盘 3.目标文件 4.目标语言 要么给出完整路径，要么截图，否则恕不处理并直接关闭ISSUE。
 
-另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是Onedrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
+另外，几个术语稍微说一下吧，bk通常指专辑附带信息的扫描图，含有CD封面图、歌词一类的信息；rr就是恢复记录百分比，用于修复意外损坏的压缩包；OD就是OneDrive盘；若未作任何说明，bgm通常指[bgm.tv](https://bgm.tv/)这个维基网站。
 
 ### 关于音乐和广播剧
 
@@ -175,7 +175,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 - [b站广播剧汉化合集](https://b23.tv/av68110461) 欢迎更多有能man加入。
 
-## a.Onedrive盘_更新最快_其他均为延时分流
+## a.OneDrive盘_更新最快_其他均为延时分流
 
 第一代管理者[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
@@ -217,19 +217,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c.自建网盘2_0
-
-第一代管理者[@妖梦](https://github.com/ShiinaRinne)
-
-[https://rdrct.youngmoe.com/ef-volce](https://rdrct.youngmoe.com/ef-volce)
-
-## d.谷歌网盘 
-
-第一代管理者[@妖梦](https://github.com/ShiinaRinne)
-
-[https://rdrct.youngmoe.com/ef-gdrive](https://rdrct.youngmoe.com/ef-gdrive)
-
-## e.百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
+## c.百度网盘_还剩一口气_下面目录里没有超链接的就代表彻底死了且不再补档_只能去OD_20240422正式声明_后续任何资源都不会再上传至此网盘
 
 ~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
 
@@ -242,7 +230,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 <br>含demo相关，一般来说有硬盘版的优先下载，除非你能自行绕过光盘验证（因为本组找不到能用的补丁;PS2版本可在pc端使用小鸡模拟器等进行体验，相比原版有剧情改动，和CG的增加。）。
 
 - [游戏OP&ED](https://pan.baidu.com/s/1E0O-QPM21pj2_afhV64NPw?pwd=2rz8)
-<br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含文英幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
+<br>monori movie collection vol.2的ef部分。收录四种版本，philosophy-raws, 压制版mkv，ANE压制版mkv(含英文字幕)，Flsonw压制版mkv，原盘m2ts。完整collection资源位于\[周边和特典\]分区，有需求者可自取。
 
 - [游戏美版（两作,含R18补丁）](https://pan.baidu.com/s/1Aw5DH1QOadpFgfaMBwwvjQ?pwd=32yo)<br>
   英文版ef是由mangagamer公司改动并翻译的，两部分别在2012年和2013年发布。这家公司同时也翻译了包括eden\*在内的许多经典作品，如有兴趣可以前往官网查看。英文版和日文版的区别大概是英文版的翻译内容和方式有所不同，情节都是一样。另外英文版的码特别薄，是可以隐约看见“内容”的那种。2019.10.17移上架steam。
@@ -321,7 +309,7 @@ b.日版BDRIP1080 <br>
 [https://pan.baidu.com/s/16XKccPbJEkDQsemsS9K2Mw](https://pan.baidu.com/s/16XKccPbJEkDQsemsS9K2Mw)
 提取码: 6k44
 
-1.  PSV版(720P mp4\_RR)<br>
+1. PSV版(720P mp4\_RR)<br>
 链接:
 [https://pan.baidu.com/s/1EIlL0cbL\_8jpPPeRJEp\_cQ](https://pan.baidu.com/s/1EIlL0cbL_8jpPPeRJEp_cQ)
 提取码: l82x
