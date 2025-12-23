@@ -1,6 +1,10 @@
 # Changelog
 # 2025
 
+## 2025-12-23
+
+`游戏OP ED【Minori Movie Collection vol.2 ef部分】`文件夹新增：`【中日字幕特效】《悠久之翼》NCOPED合集【acfun@爱在缺批乐】` ~~别问为什么是ts，IDM抓下来就这样懒得转换反正pot能播就是赢~~ ，等ed出官中版了应该会进行换源。
+
 ## 2025-6-1
 
 [Haruhana] ef - a Tale of Memories - Fonts
@@ -8,7 +12,7 @@
 [Haruhana] ef - a Tale of Memories - Subtitles
 
 ## 2025-4-7
-1.`音乐和广播剧【全无损】/(flac) 天雪修正改良版 （45）`文件夹新增：[EAC][090816]中島 裕美子　ねこねこ天使まじかるゆうな - えふメロ&メモおまけCD 特別宴会編(13bk)
+1.`音乐和广播剧【全无损】/(flac) 天雪修正改良版 （45）`文件夹新增：`[EAC][090816]中島 裕美子　ねこねこ天使まじかるゆうな - えふメロ&メモおまけCD 特別宴会編(13bk)`
 
 2.国内镜像仓库转移至https://gitcode.com/devil233-ui/ef_collection
 
