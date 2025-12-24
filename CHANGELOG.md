@@ -4,6 +4,7 @@
 ## 2025-12-23
 
 `游戏OP ED【Minori Movie Collection vol.2 ef部分】`文件夹新增：`【中日字幕特效】《悠久之翼》NCOPED合集【acfun@爱在缺批乐】` ~~别问为什么是ts，IDM抓下来就这样懒得转换反正pot能播就是赢~~ ，等ed出官中版了应该会进行换源。
+![Image](https://github.com/user-attachments/assets/ec0cb549-f06c-4b8d-a2fa-22b569ea7e99)
 
 ## 2025-6-1
 
