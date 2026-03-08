@@ -1,10 +1,13 @@
 # Changelog
-# 2025
+# 2026
+## 2026-03-08
+修正`リア獣ハンター优子`所处文件夹（汉硬→日文原版），新增英文版（感谢qq@2631907178提供），调整相应文件夹名称。
+
 ## 2026-01-03
 新增游戏汉硬kr版本（无fdex）
 
 <img width="1462" height="149" alt="image" src="https://github.com/user-attachments/assets/296f165c-2120-4221-934f-528bf658a888" />
-
+# 2025
 ## 2025-12-23
 
 `游戏OP ED【Minori Movie Collection vol.2 ef部分】`文件夹新增：`【中日字幕特效】《悠久之翼》NCOPED合集【acfun@爱在缺批乐】` ~~别问为什么是ts，IDM抓下来就这样懒得转换反正Pot能播就是赢~~ ，等ed出官中版了应该会进行换源。
