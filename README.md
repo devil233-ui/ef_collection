@@ -16,7 +16,7 @@
     - [应急措施及md5表](#应急措施及md5表)
   - [a.Onedrive盘（更新最快，其他均为延时分流）](#aOnedrive盘_更新最快_其他均为延时分流)
   - [b.磁力种子（欢迎大佬制其他资源的种并保种续种）](#b磁力种子_欢迎大佬制其他资源的种并保种续种)
-  - [c.百度网盘（260524已复活并升级）](#c.百度网盘_260524已复活)
+  - [c.百度网盘（260524已复活并升级）](#c.百度网盘_260524已复活并升级)
 - [4.参考资料——考据、文献、访谈和优质感想贴](#4参考资料考据文献访谈和优质感想贴)
 - [5.特殊问题解决](#5特殊问题解决)
 - [6.bangumi维基词条](#6bangumi维基词条)
@@ -215,7 +215,7 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 - [https://nyaa.si/view/1190541](https://nyaa.si/view/1190541)
 - [https://share.dmhy.org/topics/view/529924\_ef\_-\_a\_fairy\_tale\_of\_the\_two\_CD\_flac\_ver\_43.html](https://share.dmhy.org/topics/view/529924_ef_-_a_fairy_tale_of_the_two_CD_flac_ver_43.html)
 
-## c.百度网盘_260524已复活
+## c.百度网盘_260524已复活并升级
 
 ~~第一代管理者@devil(贴吧id ffhbcfh)，协管@Eyboarder(b站同id)~~
 
