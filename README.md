@@ -178,9 +178,13 @@ bangumi条目；U2、绯月kf、天使动漫tsdm、澄空学园ck 成员
 
 第一代管理者[@萌新](http://sion.ys168.com/)、[@devil](https://github.com/devil233-ui)
 
+第二代管理者[@devil](https://github.com/devil233-ui)
+
 尽量使用[IDM](https://www.internetdownloadmanager.com/)等进行抓取，若无法访问请使用代理。
 
-[下载地址](https://mingbos-my.sharepoint.com/:f:/g/personal/otowa_group_mingbos_onmicrosoft_com/EkUinn0elU1JqSVflwHeaF0BicWdIVjs3Y9mci7Ch4dzlA)
+[260804更换下载地址（需梯子）](https://1drv.ms/f/c/b503d0b6ece09af8/IgD5EmmbEpFPTpl9lEpD1HlgAXr94ade9tAo4I_ZL5l5Llw)
+
+[归档，纪念死去的E5](https://mingbos-my.sharepoint.com/:f:/g/personal/otowa_group_mingbos_onmicrosoft_com/EkUinn0elU1JqSVflwHeaF0BicWdIVjs3Y9mci7Ch4dzlA)
 
 > 注：出现问题的话尝试用浏览器的隐身模式打开
 
